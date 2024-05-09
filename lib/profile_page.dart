@@ -12,6 +12,7 @@ class ProfilePage extends StatefulWidget {
 }
 
 class _ProfilePageState extends State<ProfilePage> {
+  //Tab List
   final List<Tab> tabs = [
     Tab(
       icon: Icon(
